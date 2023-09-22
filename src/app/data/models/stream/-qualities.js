@@ -25,21 +25,21 @@ export default [
 	{
 		id: "high",
 		quality: "high,best,best-unfiltered",
-		exclude: ">720p30"
+		exclude: ">720p60"
 	},
 
 	// Medium
 	{
 		id: "medium",
 		quality: "medium,best,best-unfiltered",
-		exclude: ">540p30"
+		exclude: ">720p30"
 	},
 
 	// Low
 	{
 		id: "low",
 		quality: "low,best,best-unfiltered",
-		exclude: ">360p30"
+		exclude: ">480p30"
 	},
 
 	// Audio
